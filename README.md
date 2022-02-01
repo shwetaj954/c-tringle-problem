@@ -1,1 +1,1 @@
-# c-tringle-problem
+# c++ Tringle-problem
